@@ -1,0 +1,8 @@
+
+*.pt
+*.zip
+runs/
+.cache/
+__pycache__/
+*.mp4
+Dawn_Traffic_Detection_Project/

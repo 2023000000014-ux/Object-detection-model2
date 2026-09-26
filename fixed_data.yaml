@@ -1,0 +1,7 @@
+names:
+  0: car
+  1: bus
+  2: truck
+  3: motorcycle
+train: /kaggle/input/notebooks/aaditya2002/dawn-dataset-yolov8/split_yolo/train/images
+val: /kaggle/input/notebooks/aaditya2002/dawn-dataset-yolov8/split_yolo/train/images

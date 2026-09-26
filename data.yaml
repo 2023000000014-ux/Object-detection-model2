@@ -1,0 +1,12 @@
+names:
+- truck
+- person
+- bicycle
+- car
+- motorcycle
+- bus
+nc: 6
+path: ''
+test: /kaggle/input/notebooks/aaditya2002/dawn-dataset-yolov8/split_yolo/test/images
+train: /kaggle/input/notebooks/aaditya2002/dawn-dataset-yolov8/split_yolo/train/images
+val: /kaggle/input/notebooks/aaditya2002/dawn-dataset-yolov8/split_yolo/train/images
